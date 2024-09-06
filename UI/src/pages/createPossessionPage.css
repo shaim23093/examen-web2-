@@ -1,0 +1,86 @@
+.bg-gray {
+    background-color: #719fce; 
+  }
+  
+  .bg-light-gray {
+    background-color: #164675; 
+  }
+  
+  .border-orange {
+    border: 2px solid #975219; 
+  }
+  
+  .btn-orange {
+    background-color: #47311f; 
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-orange:hover {
+    background-color: #a06c3e; 
+  }
+  
+  
+  .content-box {
+    border: 2px solid #007bff;
+    border-radius: 10px; 
+    padding: 2rem; 
+    background-color: #f8f9fa; 
+    margin-left: 9cm;
+  }
+
+  
+
+
+
+
+  .custom-table {
+    border: 2px solid #ffa500; /* Bordure orange */
+    border-radius: 8px; /* Coins arrondis */
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .custom-table thead {
+    background-color: #f0f0f0; /* Fond gris clair pour l'en-tête */
+  }
+  
+  .custom-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Fond alterné gris clair pour les lignes */
+  }
+  
+  .custom-table tbody tr:hover {
+    background-color: #eaeaea; /* Fond gris pour les lignes au survol */
+  }
+  
+  .btn-primary {
+    background-color: #6f42c1; /* Couleur du bouton */
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #5a2e91; /* Couleur du bouton au survol */
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; /* Couleur du bouton danger */
+    border: none;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /* Couleur du bouton danger au survol */
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Couleur du bouton succès */
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838; /* Couleur du bouton succès au survol */
+  }
+  
